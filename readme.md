@@ -1,3 +1,4 @@
-#command to open live server
+## command to open live server
 live-server
-npx http-server ./build start build at local host 
+## command to run buils on ip
+npx http-server ./build 
